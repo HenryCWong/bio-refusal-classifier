@@ -1,4 +1,4 @@
-# Biosecurity Prompt Classifier
+# Biosecurity Refusal Classifier
 
 Binary text classifier that predicts whether a natural language prompt should be refused on biosecurity grounds. Five models are trained and compared: TF-IDF + Logistic Regression, BERT, RoBERTa, BioBERT, and DistilBERT.
 
